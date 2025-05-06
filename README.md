@@ -33,14 +33,14 @@ This project is a Python-based Mini Game Suite that includes three fun games:
 <h2>Requirements</h2>
 <ul>Python 3.x</ul>
 
-<h2>Packages:</h2>
+<h2>Packages</h2>
 <li>pygame</li>
 <li>tkinter (usually included with Python)</li>
 <li>nltk</li>
 <li>tkvideo (optional, if using video splash screens)</li>
 <li>PIL (optional, if using ImageTk)</li>
 
-<h2>To install dependencies:</h2>
+<h2>To install dependencies</h2>
 
 <li>pip install pygame nltk tkvideo pillow</li>
 <li>Also, download the NLTK word corpus:</li>
